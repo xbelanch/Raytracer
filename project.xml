@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Raytarcer" package="com.example.raytracer" version="0.0.1" company="Games from the Bunker" />
+	<app main="Main" path="Export" file="Raytracer" />
+	<window width="512" height="512" />
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="nme.svg" />
+	<icon path="Assets/nme.svg" />
+	
+</project>
